@@ -2,7 +2,7 @@
 
 Welcome to drivingaid.co!
 
-This project was initiated for a Hackathon (NwsHack 2022). We participated in a team of 2. Myself, Bryan Yang and Kyle Ah Von. 
+This project was initiated for a Hackathon (NwsHack 2022). We participated in a team of 2 (Bryan Yang and Kyle Ah Von).
 This is our first attempt at a fully operational website using HTML, CSS and Javascript. There are no separate JavaScript files. They are embedded inside of 
 the HTML files as scripts. 
 
